@@ -1,0 +1,16 @@
+git+git://github.com/kvoyager/GmdhPy.git
+backports.functools-lru-cache==1.5
+cycler==0.10.0
+enum34==1.1.6
+matplotlib==2.1.2
+numpy==1.10.4
+pandas==0.22.0
+patsy==0.5.0
+PyBrain==0.3
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2018.3
+scikit-learn==0.19.1
+scipy==1.0.0
+six==1.11.0
+statsmodels==0.8.0
